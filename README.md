@@ -19,6 +19,8 @@ ___
 * [Migrating from v3](/docs/MIGRATION.md)
 * [Sponsors/Backers/Contributors](#contributors)
 
+## Install 
+yarn add react-native-router-flux
 
 ## Usage
 
